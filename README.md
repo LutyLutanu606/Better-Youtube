@@ -1,5 +1,4 @@
 # Better-Youtube
-Youtube Client
+Youtube Client For Desktop
 
-
-AYO LUTY F YOU
+Our Discord: https://discord.gg/N9KUrxk4MM
